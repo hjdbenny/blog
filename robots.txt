@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://hjdbenny.github.io/blog/blog/sitemap.xml
